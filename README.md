@@ -1,2 +1,2 @@
-this is yogesh project
+This is my Project of Movie Recommmendation System which gives is a webapp which suggest similar movies to the movie name given by user...
 
