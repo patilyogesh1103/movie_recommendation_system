@@ -1,2 +1,2 @@
-this is yogesh project
+This is my projec of Movie Recommendation System
 
